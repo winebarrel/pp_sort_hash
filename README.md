@@ -2,6 +2,9 @@
 
 Pretty print a sorted hash by key.
 
+[![Gem Version](https://badge.fury.io/rb/pp_sort_hash.svg)](https://badge.fury.io/rb/pp_sort_hash)
+[![Build Status](https://travis-ci.org/winebarrel/pp_sort_hash.svg?branch=master)](https://travis-ci.org/winebarrel/pp_sort_hash)
+
 ## Installation
 
 Add this line to your application's Gemfile:
