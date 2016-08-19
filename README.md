@@ -1,4 +1,4 @@
-# PpSortHash
+# pp_sort_hash
 
 Pretty print a sorted hash by key.
 
